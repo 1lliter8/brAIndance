@@ -10,6 +10,18 @@ The plan:
     * Input is the outputs that generated the last 16 beats, and my input
     * Sole goal is to prompt a like
 
+# Where I'm at
+
+Live coding not a big Python thing, it seems.
+
+FoxDot's all I've managed to get working while Sonic Pi sorts its life out wrt API/CLI integration ([this thread](https://in-thread.sonic-pi.net/t/running-code-via-osc-via-python-doesnt-seem-to-work/7146) has a decent late-2022 explanation for why `python-sonic` doesn't work with OSC).
+
+* Run SuperCollider
+* Execute `FoxDot.start`
+* Play with `play.py`
+
+Will need to work out a headless mode at some point. Just get some sequencing working for now, Will, come on. Ain't even got to the NN bit.
+
 # Scratch
 
 '!': Yeah!       
